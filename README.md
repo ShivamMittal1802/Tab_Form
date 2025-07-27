@@ -1,3 +1,9 @@
+Here my mainly focus on functionality, please ignore css part.
+This feature has multiple tabs with form like different fields, This feature is completely scalable as this tabs and data are configure from data, you just have to add data then you tabs and form will be added without muct efforts.
+
+
+https://github.com/user-attachments/assets/b4e67a76-a720-4bc5-a934-31e3be5eebee
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
